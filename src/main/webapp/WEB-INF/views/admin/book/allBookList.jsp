@@ -5,8 +5,8 @@
 <table>
 	<thead>
 		<tr>
-			<th>도서성호</th>
-			<th>저자 서성호</th>
+			<th>도서성헌</th>
+			<th>저자 김성헌</th>
 			<th>발행처오늘</th>
 			<th>발행연도</th>
 			<th>ISBN</th>
