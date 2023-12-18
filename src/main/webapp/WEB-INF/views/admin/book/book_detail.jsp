@@ -46,7 +46,7 @@ function deleteBook(b_no, b_name, b_thumbnail) {
 					<li>
 						<table>
 							<tr>
-								<td>도서명</td>
+								<td>도서명(김은영)</td>
 								<td>${bookVo.b_name}</td>
 							</tr>
 							<tr>
