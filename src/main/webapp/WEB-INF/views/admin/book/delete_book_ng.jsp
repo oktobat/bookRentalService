@@ -24,7 +24,7 @@
 		
 			<div class="word">
 			
-				<h3>DELETE BOOK FAIL!!</h3>
+				<h3>유은희 수정 4차!</h3>
 				
 			</div>
 		
