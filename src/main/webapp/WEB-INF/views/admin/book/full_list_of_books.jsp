@@ -25,7 +25,12 @@
 		
 			<div class="word">
 			
+<<<<<<< HEAD
 				<h3>FULL LIST OF BOOKS</h3>
+				<h3>HanWool merge </h3>
+=======
+				<h3>FULL LIST OF BOOKS = KIMHANWOOl </h3>
+>>>>>>> 785659beb4474799e5339a3ff6207e407b80ff12
 				
 			</div>
 			
