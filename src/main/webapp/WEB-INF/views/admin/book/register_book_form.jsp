@@ -65,7 +65,7 @@
 		
 		<div id="section_wrap">
 			<div class="word">
-				<h3>REGISTER BOOK FORM</h3>
+				<h3>REGISTER BOOK FORM(김은영)</h3>
 			</div>
 
 	
