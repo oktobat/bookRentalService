@@ -6,7 +6,7 @@
 	<thead>
 		<tr>
 			<th>도서성호</th>
-			<th>저자</th>
+			<th>저자 김은영</th>
 			<th>발행처</th>
 			<th>발행연도</th>
 			<th>ISBN</th>
