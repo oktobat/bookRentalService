@@ -130,6 +130,6 @@ public class HopeBookVo {
 		this.u_m_mod_date = u_m_mod_date;
 	}
 	
-	
+	// hi
 	
 }
