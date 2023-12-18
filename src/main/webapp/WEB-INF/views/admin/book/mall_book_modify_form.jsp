@@ -20,7 +20,7 @@
 		
 		<div id="section_wrap">
 			<div class="word">
-				<h3>판매도서 등록</h3>
+				<h3>판매도서 등록(김동현)</h3>
 			</div>
 
 		<div class="book_mall_form">
