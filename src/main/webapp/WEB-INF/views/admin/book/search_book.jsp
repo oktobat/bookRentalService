@@ -21,7 +21,7 @@
 		
 		<div id="section_wrap">
 			<div class="word">
-				<h3>BOOK SEARCH RESULTS</h3>
+				<h3>도서 검색 결과(서성호)</h3>
 			</div>
 			
 			<div class="book_list">
